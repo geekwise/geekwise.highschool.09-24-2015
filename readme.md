@@ -34,29 +34,8 @@ span{
 ---
 ![](images/html-box-layout.png)
 
-<div id='outer_box' style='
-	  background-color:#a5a5a5;
-	  color:#fcfcfc;
-    width: 200px;
-    border: 5px solid #5d5d5d;
-    padding: 10px;
-    margin: 10px;
-    text-align:center;
-    vertical-align:middle;
-'>outer
-<div id='inner_box' style='
-		color:black;
-	  background-color:#ececec;
-    height: 150px;
-    width: 150px;
-    border: 5px solid #7e7e7e;
-    padding: 10px;
-    margin: 10px;
-    line-height:150px;
-    text-align:center;
-    vertical-align:middle;
- '>inner</div>
- </div>
+
+![](images/div-box.jpg)
 
 
 ##`DIV`
